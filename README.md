@@ -74,55 +74,58 @@
 Aquí podrás encontrar algunos de los proyectos en los que he trabajado y otros repositorios destacados:
 
 ### Mis Proyectos
-<p align="center">
+<p align="center" style="font-family: 'Poppins', sans-serif; font-weight: bold;">
   <a href="https://abelmoyaicsi.github.io/CupidoAmor-Protype/" target="_blank">
-    <img src="https://image.thum.io/get/width/600/https://abelmoyaicsi.github.io/CupidoAmor-Protype/" alt="Proyecto 1" width="200">
+    <img src="https://image.thum.io/get/width/800/https://abelmoyaicsi.github.io/CupidoAmor-Protype/" alt="Proyecto 1" width="250">
   </a>
   <a href="https://abelmoyaicsi.github.io/IACyberShield-Prototype/" target="_blank">
-    <img src="https://image.thum.io/get/width/600/https://abelmoyaicsi.github.io/IACyberShield-Prototype/" alt="Proyecto 2" width="200">
+    <img src="https://image.thum.io/get/width/800/https://abelmoyaicsi.github.io/IACyberShield-Prototype/" alt="Proyecto 2" width="250">
   </a>
   <a href="https://abelmoyaicsi.github.io/GREENFOOD-Prototype/" target="_blank">
-    <img src="https://image.thum.io/get/width/600/https://abelmoyaicsi.github.io/GREENFOOD-Prototype/" alt="Proyecto 3" width="200">
+    <img src="https://image.thum.io/get/width/800/https://abelmoyaicsi.github.io/GREENFOOD-Prototype/" alt="Proyecto 3" width="250">
   </a>
+  <br><br> <!-- Espaciado adicional -->
   <a href="https://abelmoyaicsi.github.io/RECICLAUPAOv1-LANDING-PAGE-PROTOYPE/" target="_blank">
-    <img src="https://image.thum.io/get/width/600/https://abelmoyaicsi.github.io/RECICLAUPAOv1-LANDING-PAGE-PROTOYPE/" alt="Proyecto 4" width="200">
+    <img src="https://image.thum.io/get/width/800/https://abelmoyaicsi.github.io/RECICLAUPAOv1-LANDING-PAGE-PROTOYPE/" alt="Proyecto 4" width="250">
   </a>
   <a href="https://abelmoyaicsi.github.io/RECICLAUPAOv2-LANDING-PAGE-PROTOYPE/" target="_blank">
-    <img src="https://image.thum.io/get/width/600/https://abelmoyaicsi.github.io/RECICLAUPAOv2-LANDING-PAGE-PROTOYPE/" alt="Proyecto 5" width="200">
+    <img src="https://image.thum.io/get/width/800/https://abelmoyaicsi.github.io/RECICLAUPAOv2-LANDING-PAGE-PROTOYPE/" alt="Proyecto 5" width="250">
   </a>
   <a href="https://abelmoyaicsi.github.io/FitSocial-Prototype/" target="_blank">
-    <img src="https://image.thum.io/get/width/600/https://abelmoyaicsi.github.io/FitSocial-Prototype/" alt="Proyecto 6" width="200">
+    <img src="https://image.thum.io/get/width/800/https://abelmoyaicsi.github.io/FitSocial-Prototype/" alt="Proyecto 6" width="250">
   </a>
+  <br><br>
   <a href="https://abelmoyaicsi.github.io/Calculadora-UPAO/" target="_blank">
-    <img src="https://image.thum.io/get/width/600/https://abelmoyaicsi.github.io/Calculadora-UPAO/" alt="Proyecto 7" width="200">
+    <img src="https://image.thum.io/get/width/800/https://abelmoyaicsi.github.io/Calculadora-UPAO/" alt="Proyecto 7" width="250">
   </a>
   <a href="https://abelmoyaicsi.github.io/Tier-List-Cursos--Upao/" target="_blank">
-    <img src="https://image.thum.io/get/width/600/https://abelmoyaicsi.github.io/Tier-List-Cursos--Upao/" alt="Proyecto 8" width="200">
+    <img src="https://image.thum.io/get/width/800/https://abelmoyaicsi.github.io/Tier-List-Cursos--Upao/" alt="Proyecto 8" width="250">
   </a>
   <a href="https://abelmoyaicsi.github.io/Calculadora-de-Creditos-UPAO-ICSI-2024/" target="_blank">
-    <img src="https://image.thum.io/get/width/600/https://abelmoyaicsi.github.io/Calculadora-de-Creditos-UPAO-ICSI-2024/" alt="Proyecto 9" width="200">
+    <img src="https://image.thum.io/get/width/800/https://abelmoyaicsi.github.io/Calculadora-de-Creditos-UPAO-ICSI-2024/" alt="Proyecto 9" width="250">
   </a>
+  <br><br>
   <a href="https://abelmoyaicsi.github.io/CONSTRUYE-TU-HORARIO-UPAO/" target="_blank">
-    <img src="https://image.thum.io/get/width/600/https://abelmoyaicsi.github.io/CONSTRUYE-TU-HORARIO-UPAO/" alt="Proyecto 10" width="200">
+    <img src="https://image.thum.io/get/width/800/https://abelmoyaicsi.github.io/CONSTRUYE-TU-HORARIO-UPAO/" alt="Proyecto 10" width="250">
   </a>
   <a href="https://abelmoyaicsi.github.io/FORMIGO-Prototype/" target="_blank">
-    <img src="https://image.thum.io/get/width/600/https://abelmoyaicsi.github.io/FORMIGO-Prototype/" alt="Proyecto 11" width="200">
+    <img src="https://image.thum.io/get/width/800/https://abelmoyaicsi.github.io/FORMIGO-Prototype/" alt="Proyecto 11" width="250">
   </a>
- 
 </p>
 
 ### Repositorios Destacados
-<p align="center">
+<p align="center" style="font-family: 'Poppins', sans-serif; font-weight: bold;">
   <a href="https://abelmoyaicsi.github.io/FORMIGO-Prototype/" target="_blank">
-    <img src="https://image.thum.io/get/width/600/https://abelmoyaicsi.github.io/FORMIGO-Prototype/" alt="Proyecto 11" width="200">
+    <img src="https://image.thum.io/get/width/800/https://abelmoyaicsi.github.io/FORMIGO-Prototype/" alt="Proyecto 11" width="250">
   </a>
   <a href="https://abelmoyaicsi.github.io/CONSTRUYE-TU-HORARIO-UPAO/" target="_blank">
-    <img src="https://image.thum.io/get/width/600/https://abelmoyaicsi.github.io/CONSTRUYE-TU-HORARIO-UPAO/" alt="Proyecto 10" width="200">
+    <img src="https://image.thum.io/get/width/800/https://abelmoyaicsi.github.io/CONSTRUYE-TU-HORARIO-UPAO/" alt="Proyecto 10" width="250">
   </a>
   <a href="https://abelmoyaicsi.github.io/Calculadora-UPAO/" target="_blank">
-    <img src="https://image.thum.io/get/width/600/https://abelmoyaicsi.github.io/Calculadora-UPAO/" alt="Proyecto 7" width="200">
+    <img src="https://image.thum.io/get/width/800/https://abelmoyaicsi.github.io/Calculadora-UPAO/" alt="Proyecto 7" width="250">
   </a>
 </p>
+
 
 ---
 
